@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Wychwood Warriors - Clothing Fabrics</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="wychwood.css" type="text/css">
+<meta name="keywords" content="wychwood,warriors,re-enactment,reenactment,anglo-saxon,viking,dark ages,oxford,historical combat,living history" />
+<meta name="description" content="The homepage of the Oxford University Historical Re-enactment Society, aka the Wychwood Warriors!" />
+
+<SCRIPT LANGUAGE="JavaScript"><!-- Original:  Eric King (eric_andrew_king@hotmail.com) --><!-- Web Site:  http://redrival.com/eak/ --><!-- This script and many more are available free online at --><!-- The JavaScript Source!! http://javascript.internet.com --><!-- Beginfunction NewWindow(mypage, myname, w, h, scroll) {var winl = (screen.width - w) / 2;var wint = (screen.height - h) / 2;winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'win = window.open(mypage, myname, winprops)if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }}//  End --></script>
+
+</head>
+
+<body class="fullwidth">
+
+	<div id="container">
+
+		<div id="header">
+
+			<div id="header-in">
+
+<center><IMG SRC="images/header.jpg" ALT="Wychwood Warriors (photos by Greg Smolonski)"></center>
+<br><br>
+
+			</div> <!-- end #header-in -->
+
+		</div> <!-- end #header -->
+
+<div id="content-wrap" class="clear lcol">
+
+			<div class="column">
+
+				<div class="column-in">
+
+<blockquote>
+<h3><a href="index.shtml">home</a>
+<br><a href="fighting.shtml">fighting</a> 
+<br><a href="costume.shtml">costume</a> 
+<font size= -4><br><a href="costumemale.shtml"><i>male costume</i></a> 
+<br><a href="costumefemale.shtml"><i>female costume</i></a>
+<br><a href="costumefabrics.shtml"><i>fabrics</i></a>
+</font>
+<br><a href="history.shtml">history</a> 
+<br><a href="firesfeasts.shtml">fires & feasts</a> 
+<br><a href="trips.shtml">trips</a> 
+<br><a href="shows.shtml">shows</a> 
+<br><a href="hire.shtml">hire us</a> 
+<br><a href="contact.shtml">contact</a> 
+<br><a href="http://wychwood.wikidot.com" target="new">wiki</a>
+<br><a href="http://wychwood.wikidot.com/termcard" target="new">termcard</a>
+<br><a href="documents.shtml">documents</a>
+<br><a href="thanks.shtml">credits</a>
+</h3></blockquote>
+
+				</div> <!-- end .column-in -->
+
+			</div> <!-- end .column -->
+
+			<div class="content">
+
+				<div class="content-in">
+
+<p><img src="images/woolsamples.jpg" border=0 width=150 align=right alt="Dark Age dyes"></a><B><U>Fabrics</B></U>
+<br>There were two types of fabric in common use: wool and linen. In Anglo-Saxon and Viking areas cloth was normally one colour, as the woven cloth was dyed and not the yarn.  However, two-toned twills were also made.  It is said that linen was more expensive than wool. Imported silk was available, but it was very expensive. Luxuries like shot-silk taffeta were even more exclusive.<p>Natural silk is almost white and is a very good base for natural dyes. Natural linen is a green-grey colour. To prepare it for dyeing it has to be bleached by dampening and laying it out in the sun for a few weeks, keeping it damp. It does not take the dye so well and colours will be slightly more muted. Wool was actually only a by-product of the sheep-farming industry until the twelfth century, and because of this the natural colours of the sheep varied enormously. Most however were quite dark brown or even black. Consequently white wool suitable for dyeing would not have been commonly available, and most woolen garments would have been dark. This natural colour cannot be bleached out.<p>Cloth was dyed with vegetable dyes, probably mostly woad, weld and madder (giving blue, yellow and red respectively). Most colours could then be obtained by mixing or re-dyeing. Black was available from amongst other things oak bark. Many herbs and plants give more muted colours, and it is probable that the middle and lower classes would have used things like onion skins, lichens, bark or woodshavings. It is not however clear how much access they would have had to linen for their clothes (possibly quite a lot) or how much wool was white enough to be worth dyeing (probably not much).
+
+<p>The photo on this page shows some samples of pure wool dyed with natural dyes of plants available in England in the Early Medieval period to give you an idea of the colours people at the time may have obtained.  The dye plants used for these samples include elderberries, onion skins, lady's mantle, juniper berries, St. John's Wort, oak bark, silver birch bark, nettle, madder and weld. Undyed wool is shown at the top for comparison.<p>Bright purple may have been considered suitable for royalty only, as it was made from oriental dyes imported at great cost. A deeper purple is obtainable however from elderberries. Most spinning and weaving appears to have occurred in a domestic context, although dyeing was done on a industrial scale. If the owner was wealthy then the garments would be decorated with embroidery or tablet braid. Both techniques are known from all regions. Grades of cloth vary from coarse to very fine depending the application.
+
+<p>Our wiki has more detailed articles on period <a href="http://wychwood.wikidot.com/kit-cloth" target="new">cloth</a> and <a href="http://wychwood.wikidot.com/kit-dyeing" target="new">dyes</a>.
+				</div> <!-- end .content-in -->
+
+			</div> <!-- end .content -->
+
+		</div> <!-- end #content-wrap -->
+
+		<div class="clear"></div>
+
+		<div id="footer">
+
+			<div id="footer-in">
+			</div> <!-- end #footer-in -->
+
+		</div> <!-- end #footer -->
+
+	</div> <!-- end div#container -->
+
+
+</body>
+</html>

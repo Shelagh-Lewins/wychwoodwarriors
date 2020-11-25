@@ -1,0 +1,92 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Wychwood Warriors - Credits</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="wychwood.css" type="text/css">
+<meta name="keywords" content="wychwood,warriors,re-enactment,reenactment,anglo-saxon,viking,dark ages,oxford,historical combat,living history" />
+<meta name="description" content="The homepage of the Oxford University Historical Re-enactment Society, aka the Wychwood Warriors!" />
+
+<SCRIPT LANGUAGE="JavaScript"><!-- Original:  Eric King (eric_andrew_king@hotmail.com) --><!-- Web Site:  http://redrival.com/eak/ --><!-- This script and many more are available free online at --><!-- The JavaScript Source!! http://javascript.internet.com --><!-- Beginfunction NewWindow(mypage, myname, w, h, scroll) {var winl = (screen.width - w) / 2;var wint = (screen.height - h) / 2;winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'win = window.open(mypage, myname, winprops)if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }}//  End --></script>
+
+</head>
+
+<body class="fullwidth">
+
+	<div id="container">
+
+		<div id="header">
+
+			<div id="header-in">
+
+<center><IMG SRC="images/header.jpg" ALT="Wychwood Warriors (photos by Greg Smolonski)"></center>
+<br><br>
+
+			</div> <!-- end #header-in -->
+
+		</div> <!-- end #header -->
+
+<div id="content-wrap" class="clear lcol">
+
+			<div class="column">
+
+				<div class="column-in">
+
+<blockquote>
+<h3><a href="index.shtml">home</a>
+<br><a href="fighting.shtml">fighting</a> 
+<br><a href="costume.shtml">costume</a> 
+<br><a href="history.shtml">history</a> 
+<br><a href="firesfeasts.shtml">fires & feasts</a> 
+<br><a href="trips.shtml">trips</a> 
+<br><a href="shows.shtml">shows</a> 
+<br><a href="hire.shtml">hire us</a> 
+<br><a href="contact.shtml">contact</a> 
+<br><a href="http://wychwood.wikidot.com" target="new">wiki</a>
+<br><a href="http://wychwood.wikidot.com/termcard" target="new">termcard</a>
+<br><a href="documents.shtml">documents</a>
+<br><a href="thanks.shtml">credits</a>
+</h3></blockquote>
+
+				</div> <!-- end .column-in -->
+
+			</div> <!-- end .column -->
+
+			<div class="content">
+
+				<div class="content-in">
+
+<p>This website would not have been possible without the continuing help and enthusiasm of a number of people. Many thanks to everyone involved and to everyone who allowed us to use their photos.</p>
+
+<p><center><img src="images/wwtapestry.jpg" border=0 width=650 align=center alt="An early record of the Wychwood Warriors"></a></center>
+<p>
+
+<style>  th { font-weight: bold; text-align: right; vertical-align: top }  </style>  <p><table align="center"><tr><th>Authors</td><td>Marc Wilkinson<br>    Felix K&uuml;llchen<br>    Bruno Luse (Hiring the Wychwood Warriors)<br>    Simon Chadwick (articles on female costume, male costume, fabrics and England     in Anglo-Saxon times)<br></td></tr>    <tr><th>Design</td><td>Freya Harrison<br>
+    Felix K&uuml;llchen<br>    Geraldine Fagan<br>    Shelagh Lewins (Wychwood Snakes)<br>    Paul Witty</td></tr>
+    <tr><th>Drawings</td><td>Mark Talbot (Wychwood Snakes)<br>    Chris Jardine (Wychwood Warriors)<br>    Simon Chadwick (map of Britain in the ninth century)</td></tr>
+
+    <tr><th>Proofreading</td><td>Rachel Kellett<br>    Jonathan Miller<br>    Mark Talbot<br>    Lucinda Walker<br>
+    Paul Furnborough<br>
+    Chris McCloskey</td></tr>
+    <tr><th>Letter</td><td>Megan</td></tr></table>
+
+				</div> <!-- end .content-in -->
+
+			</div> <!-- end .content -->
+
+		</div> <!-- end #content-wrap -->
+
+		<div class="clear"></div>
+
+		<div id="footer">
+
+			<div id="footer-in">
+			</div> <!-- end #footer-in -->
+
+		</div> <!-- end #footer -->
+
+	</div> <!-- end div#container -->
+
+
+</body>
+</html>

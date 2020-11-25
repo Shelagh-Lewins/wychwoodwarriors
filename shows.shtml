@@ -1,0 +1,85 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Wychwood Warriors - Shows</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="wychwood.css" type="text/css">
+<meta name="keywords" content="wychwood,warriors,re-enactment,reenactment,anglo-saxon,viking,dark ages,oxford,historical combat,living history" />
+<meta name="description" content="The homepage of the Oxford University Historical Re-enactment Society, aka the Wychwood Warriors!" />
+
+<SCRIPT LANGUAGE="JavaScript"><!-- Original:  Eric King (eric_andrew_king@hotmail.com) --><!-- Web Site:  http://redrival.com/eak/ --><!-- This script and many more are available free online at --><!-- The JavaScript Source!! http://javascript.internet.com --><!-- Beginfunction NewWindow(mypage, myname, w, h, scroll) {var winl = (screen.width - w) / 2;var wint = (screen.height - h) / 2;winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'win = window.open(mypage, myname, winprops)if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }}//  End --></script>
+
+</head>
+
+<body class="fullwidth">
+
+	<div id="container">
+
+		<div id="header">
+
+			<div id="header-in">
+
+<center><IMG SRC="images/header.jpg" ALT="Wychwood Warriors (photos by Greg Smolonski)"></center>
+<br><br>
+
+			</div> <!-- end #header-in -->
+
+		</div> <!-- end #header -->
+
+<div id="content-wrap" class="clear lcol">
+
+			<div class="column">
+
+				<div class="column-in">
+
+<blockquote>
+<h3><a href="index.shtml">home</a>
+<br><a href="fighting.shtml">fighting</a> 
+<br><a href="costume.shtml">costume</a> 
+<br><a href="history.shtml">history</a> 
+<br><a href="firesfeasts.shtml">fires & feasts</a> 
+<br><a href="trips.shtml">trips</a> 
+<br><a href="shows.shtml">shows</a> 
+<br><a href="hire.shtml">hire us</a> 
+<br><a href="contact.shtml">contact</a> 
+<br><a href="http://wychwood.wikidot.com" target="new">wiki</a>
+<br><a href="http://wychwood.wikidot.com/termcard" target="new">termcard</a>
+<br><a href="documents.shtml">documents</a>
+<br><a href="thanks.shtml">credits</a>
+</h3></blockquote>
+
+				</div> <!-- end .column-in -->
+
+			</div> <!-- end .column -->
+
+			<div class="content">
+
+				<div class="content-in">
+<p><a href="images/showfighting.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - fighting at a show', '510', '356', 'no');return false;"><img src="images/showfighting.jpg" border=0 height=200 align=right alt="Fighting at a show"></a><B><U>Shows</B></U>
+<br>In the summer we take part in shows, performing in front of a public audience. Wychwood provides training for those wishing to take part in the battle re-enactment with the adequate safety measures.  These range from national, multi-society events such as the <a href="http://wychwood.wikidot.com/events-hastings-2006-bunni target="new">Battle of Hastings</a> or the Battle of Camlann at <a href="http://wychwood.wikidot.com/events-tintagel-2007 target="new">Tintagel</a>, which attract up to 2,000 warriors - infantry, cavalry and archers - and include living history encampments, to smaller events where we are hired to entertain the public with crafts and fighting amongst ourselves.  For instance, we recently performed at <a href="http://wychwood.wikidot.com/events-castle-2007" target="new">Oxford Castle</a>.  
+
+<p> Fighting at a show is very different from fighting at battle practice!You stand in the shield-wall, surrounded by the shoulder companions who fought at your side many times before. Strangers about whom you know nothing are also standing by your side. Your liege-lord is all you share in common.<p>As the mist clears, you can see the enemy army assembling. Rank upon rank of your foes draw up in front of you. As you watch the enemy in silence, you wonder how many good men are going to fall today. Will any of your trusted friends be among them? Will you live to feast with them another day?<p>Then the enemy approaches. The shield-walls clash, and the battlefield echoes with the Saxon battle cry. In the desperate fray of the hack and slash of close combat you can rely only on your skills and the resolve of your shoulder companions to stay alive.
+
+<p><a href="images/showcamp.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - authenti-camping at a show', '510', '357', 'no');return false;"><img src="images/showcamp.jpg" border=0 height=200 align=left alt="Authenti-camping at a show"></a>Shows aren't just about fighting.  While the brave die in battle, the rest of us laze around a camp-fire. Hang around, chill out, eat sausages and have a look around the village.  Living history villages comprise several re-enactor's tents, where we display our crafts, get on with kit making and talk to members of the public.  Because there are many spectators we make sure that everything we wear and we eat is authentic. Sausages, omelettes, fresh fruits and fruit juice taste good, are easy to make and would have been consumed by Anglo-Saxons.
+
+<p>Sometimes we go on holiday to reconstructed period settlements and live like Anglo-Saxons or Vikings for an entire week.  This can turn into a week-long show if our village is open to the public!
+	</div> <!-- end .content-in -->
+
+			</div> <!-- end .content -->
+
+		</div> <!-- end #content-wrap -->
+
+		<div class="clear"></div>
+
+		<div id="footer">
+
+			<div id="footer-in">
+			</div> <!-- end #footer-in -->
+
+		</div> <!-- end #footer -->
+
+	</div> <!-- end div#container -->
+
+
+</body>
+</html>
