@@ -72,7 +72,7 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 				<div class="content-in">
 
-<p>Welcome to the Wychwood Warriors in 2020. The plague is preventing us from running our normal events, but the Oxford University Historical Re-enactment Society is still ready to welcome new members.</p>
+<p>Welcome to the Wychwood Warriors in 2021. The plague is preventing us from running our normal events, but the Oxford University Historical Re-enactment Society is still ready to welcome new members.</p>
 
 <p>You do not need any experience or historical knowledge: we welcome complete beginners, as well as seasoned re-enactors, and everyone in between. Most members are not historians, so you don’t need any expertise - just interest!</p>
 
@@ -81,7 +81,7 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 <p>Talk to us on <a href="https://www.facebook.com/wychwoodwarriors/" target="_blank">Facebook</a>
 
-<h3>What we're doing in Michelmas term 2020</h3>
+<h3>What we're doing in 2021</h3>
 
 <p>Learn to fight with sword and spear! Battle Practice is 1-1 sessions: get in touch to find out how to book.</p>
 
@@ -90,18 +90,14 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 <ul>
 	<li>demonstrate and where possible try out crafts and costume-making.</li>
 	<li>talk about a particular aspect of Dark Age life, such as weapons, board games, monastic life, or Anglo-Saxon literacy.</li>
-	<li>play a light-hearted roleplaying game based around the Anglo-Saxon Chronicles. Please join in! You can develop a character living in our spiritual home at the Yorkshire Museum of Farming, which we plan to visit as usual at Easter.</li>
+	<li>play a light-hearted roleplaying game based around the Anglo-Saxon Chronicles. Please join in!</li>
 </ul>
 
 <p>We have other ad hoc Zoom events such as play rehearsals - get in touch to find out more.</p>
 
 <p>It's fine to drop in to any online event, but you'll need to book a place for any face to face events.</p>
 
-<h3>What we're doing over the winter vacation 2020/2021</h3>
-
-<p>Battle Practice will continue for anybody who is in Oxford, and Zoom events will continue. If it is safe and legal we'll look at arranging some in-person craft meets.</p>
-
-<h3>Activities we hope to resume in 2021</h3>
+<h3>Activities we hope to resume later in 2021</h3>
 
 <ul>
 	<li>weekly kitmaking sessions where you can make your own Anglo-Saxon or Viking clothing, and learn crafts such as chain-mail and tablet weaving</li>
@@ -114,9 +110,9 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 	<li>our big event: we spend the Easter weekend (1-6 April 2021) living in costume at the Danelaw village, Yorkshire Museum of Farming, on display to the public during the day and gathering round a fire in the longhall at night.</li>
 </ul>
 
-<h3>Printable poster</h3>
+<!--<h3>Printable poster</h3>
 
-<p>If you can share <a href="images/wychwood-warriors-poster-2020.pdf">our poster</a> anywhere, for example by printing it and putting it on a noticeboard, that would be amazing - one of our biggest challenges this year is just to let people know we exist!</p>
+<p>If you can share <a href="images/wychwood-warriors-poster-2020.pdf">our poster</a> anywhere, for example by printing it and putting it on a noticeboard, that would be amazing - one of our biggest challenges this year is just to let people know we exist!</p>-->
 
 <p>...and now, back to our regular programming!</p>
 
@@ -139,6 +135,10 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 <p>Interested? Have a look around our site to find out more about what we do. More detailed information about the period we reenact and our activities can be found on our <a href="http://wychwood.wikidot.com" target="new">wiki</a>, which acts as our shared knowledge base for anything and everything Dark Age or reenactment related.  It is also home to our <a href="http://wychwood.wikidot.com/termcard">termcard</a>.  If you would like to find out more about our activities, or enquire about hiring us, please <a href="contact.shtml">contact us</a> or come along to a <a href="fighting.shtml"> battle practice</a>.  Your first practice is free, with no obligation to join.  Thereafter, membership costs £10 for a term or £20 for the year.</p>
 
 <p>You can also <a href="https://www.facebook.com/wychwoodwarriors/"><img alt="Wychwood Warriors Facebook Page" src="images/facebook.svg" width="28" height="28"> find us on Facebook</a></p>
+
+<h3>Equality and diversity</h3>
+<p>Q) Who can join, and are there any restrictions on who can do what?</p>
+<p>A) Anybody can join who has an interest in recreating life in early mediaeval Britain. We welcome members of any gender, background or faith. We are opposed to all forms of discrimination; everything is for everybody. Disability may limit the activities that are safe and enjoyable, but we will work with any member to try to maximise their involvement.</p>
 
 				</div> <!-- end .content-in -->
 
