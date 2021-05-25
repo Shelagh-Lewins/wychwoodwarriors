@@ -1,0 +1,83 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Wychwood Warriors - Male Costume</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="wychwood.css" type="text/css">
+<meta name="keywords" content="wychwood,warriors,re-enactment,reenactment,anglo-saxon,viking,dark ages,oxford,historical combat,living history" />
+<meta name="description" content="The homepage of the Oxford University Historical Re-enactment Society, aka the Wychwood Warriors!" />
+
+<SCRIPT LANGUAGE="JavaScript"><!-- Original:  Eric King (eric_andrew_king@hotmail.com) --><!-- Web Site:  http://redrival.com/eak/ --><!-- This script and many more are available free online at --><!-- The JavaScript Source!! http://javascript.internet.com --><!-- Beginfunction NewWindow(mypage, myname, w, h, scroll) {var winl = (screen.width - w) / 2;var wint = (screen.height - h) / 2;winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'win = window.open(mypage, myname, winprops)if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }}//  End --></script>
+
+</head>
+
+<body class="fullwidth">
+
+	<div id="container">
+
+		<div id="header">
+
+			<div id="header-in">
+
+<center><IMG SRC="images/header.jpg" ALT="Wychwood Warriors (photos by Greg Smolonski)"></center>
+<br><br>
+
+			</div> <!-- end #header-in -->
+
+		</div> <!-- end #header -->
+
+<div id="content-wrap" class="clear lcol">
+
+			<div class="column">
+
+				<div class="column-in">
+
+<blockquote>
+<h3><a href="index.shtml">home</a>
+<br><a href="fighting.shtml">fighting</a> 
+<br><a href="costume.shtml">costume</a> 
+<font size= -4><br><a href="costumemale.shtml"><i>male costume</i></a> 
+<br><a href="costumefemale.shtml"><i>female costume</i></a>
+<br><a href="costumefabrics.shtml"><i>fabrics</i></a>
+</font>
+<br><a href="history.shtml">history</a> 
+<br><a href="firesfeasts.shtml">fires & feasts</a> 
+<br><a href="trips.shtml">trips</a> 
+<br><a href="shows.shtml">shows</a> 
+<br><a href="hire.shtml">hire us</a> 
+<br><a href="contact.shtml">contact</a> 
+<br><a href="http://wychwood.wikidot.com" target="new">wiki</a>
+<br><a href="http://wychwood.wikidot.com/termcard" target="new">termcard</a>
+<br><a href="documents.shtml">documents</a>
+<br><a href="thanks.shtml">credits</a>
+</h3></blockquote>
+
+				</div> <!-- end .column-in -->
+
+			</div> <!-- end .column -->
+
+			<div class="content">
+
+				<div class="content-in">
+
+<p><a href="images/dom.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - costume', '355', '505', 'no');return false;"><img src="images/dom.jpg" border=0 width=200 align=right alt="Beornwulf, a Saxon warrior"></a><B><U>Male Costume</B></U><br>In Early Medi&aelig;val times the main item of male clothing was the tunic (or kirtle). Typically it was between mid-thigh and knee-length. Royalty and aristocrats would wear ankle-length tunics or gowns for formal occasions. Tunic sleeves were always long, and in England they tended to be extra-long to cover the hands, and ruffled at the wrists. The neck was normally round with a slit at the front closed by a drawstring or hook and eye. Tunics often had tablet braid, embroidery or borders at the neck and cuffs but rarely at the bottom hem. Side-split tunics (probably undershirts) were sometimes worn by working men, and in the late eleventh century front-and-back split tunics became popular, but most tunics had a full skirt. There is no evidence of tunics with different panels of cloth (e.g. gussets) of different colours. There is little variation in the basic tunic design across all cultures.<p>The evidence for leg-coverings is far less clear. Bare legs seem to have been common amongst lower classes in all areas. Probably the most common type of leg-covering in this period consisted of "hose and braes". Hose are individual leg coverings, like stockings, and braes are like large boxer shorts. Long hose or trousers (there is little difference between them) were often worn by the English. They could be worn with or without leg-bindings: "Puttees" (winingas) or cross-gartering. Cross-gartering was only worn by kings, but winingas were common in all classes. They can even be worn without trousers. English trousers were always tight and tucked into the tops of the shoes, which suggests that they had integral feet.<p><a href="images/chriscloseup.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - costume', '355', '505', 'no');return false;"><img src="images/chriscloseup.jpg" border=0 width=200 align=left alt="Thorhelm the Viking"></a>According to the tenth and eleventh century manuscript evidence, some English men (especially warriors) wore a hat, called a "Phrygian cap". These could be of cloth or leather and can be edged with braid or embroidery. Hoods were common in Celtic areas, either integral with a cloak or separate. They did not have liriples (tails at the back). They can be of thick or thin cloth.<p>The English were internationally renowned for their cloak exports. The cloaks may have been wooly, attained by tying threads into the cloth on the loom. The cloak was knee-length or shorter, square, and worn by fastening one straight edge around the neck with a circular brooch or pin or laces at the right shoulder. Cloaks were sometimes lined. They often had tablet woven edges, woven in on the loom, and less often sewn on.<p>There is no evidence that men's shoes were any different from women's.
+				</div> <!-- end .content-in -->
+
+			</div> <!-- end .content -->
+
+		</div> <!-- end #content-wrap -->
+
+		<div class="clear"></div>
+
+		<div id="footer">
+
+			<div id="footer-in">
+			</div> <!-- end #footer-in -->
+
+		</div> <!-- end #footer -->
+
+	</div> <!-- end div#container -->
+
+
+</body>
+</html>

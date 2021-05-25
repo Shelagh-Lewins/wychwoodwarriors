@@ -1,0 +1,84 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Wychwood Warriors - Female Costume</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="wychwood.css" type="text/css">
+<meta name="keywords" content="wychwood,warriors,re-enactment,reenactment,anglo-saxon,viking,dark ages,oxford,historical combat,living history" />
+<meta name="description" content="The homepage of the Oxford University Historical Re-enactment Society, aka the Wychwood Warriors!" />
+
+<SCRIPT LANGUAGE="JavaScript"><!-- Original:  Eric King (eric_andrew_king@hotmail.com) --><!-- Web Site:  http://redrival.com/eak/ --><!-- This script and many more are available free online at --><!-- The JavaScript Source!! http://javascript.internet.com --><!-- Beginfunction NewWindow(mypage, myname, w, h, scroll) {var winl = (screen.width - w) / 2;var wint = (screen.height - h) / 2;winprops = 'height='+h+',width='+w+',top='+wint+',left='+winl+',scrollbars='+scroll+',resizable'win = window.open(mypage, myname, winprops)if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }}//  End --></script>
+
+</head>
+
+<body class="fullwidth">
+
+	<div id="container">
+
+		<div id="header">
+
+			<div id="header-in">
+
+<center><IMG SRC="images/header.jpg" ALT="Wychwood Warriors (photos by Greg Smolonski)"></center>
+<br><br>
+
+			</div> <!-- end #header-in -->
+
+		</div> <!-- end #header -->
+
+<div id="content-wrap" class="clear lcol">
+
+			<div class="column">
+
+				<div class="column-in">
+
+<blockquote>
+<h3><a href="index.shtml">home</a>
+<br><a href="fighting.shtml">fighting</a> 
+<br><a href="costume.shtml">costume</a> 
+<font size= -4><br><a href="costumemale.shtml"><i>male costume</i></a> 
+<br><a href="costumefemale.shtml"><i>female costume</i></a>
+<br><a href="costumefabrics.shtml"><i>fabrics</i></a>
+</font>
+<br><a href="history.shtml">history</a> 
+<br><a href="firesfeasts.shtml">fires & feasts</a> 
+<br><a href="trips.shtml">trips</a> 
+<br><a href="shows.shtml">shows</a> 
+<br><a href="hire.shtml">hire us</a> 
+<br><a href="contact.shtml">contact</a> 
+<br><a href="http://wychwood.wikidot.com" target="new">wiki</a>
+<br><a href="http://wychwood.wikidot.com/termcard" target="new">termcard</a>
+<br><a href="documents.shtml">documents</a>
+<br><a href="thanks.shtml">credits</a>
+</h3></blockquote>
+
+				</div> <!-- end .column-in -->
+
+			</div> <!-- end .column -->
+
+			<div class="content">
+
+				<div class="content-in">
+
+<p><B><U>Female Costume</B></U>
+<br><a href="images/femalecostume.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - costume', '505', '311', 'no');return false;"><img src="images/femalecostume.jpg" border=0 height=200 align=right alt="description"></a>The English Woman's dress was quite simple: a full dress reaching to the ankles with tight rumpled sleeves and a small neck-opening. It would often have been held in at the waist by a belt or girdle. There is no evidence for panels of different colours being sewn into these garments. It could be decorated at the wrist with embroidery, but the neck would probably never be seen enough under the headcloth.<p>In the eleventh century a new fashion appears, with very loose flared sleeves and tight-fitting waist. This becomes more common (and more extreme) in the twelfth century.<p>Most medi&aelig;val Christian societies insisted that women cover their hair (although there is a dispute about the abilities of monks to record secular fashions). Most common in England was the wimple, a long shawl or scarf which was draped over the head to completely cover the hair. In the eleventh century a simpler style consisting of a square of cloth on the head, held by a headband (or sometimes over the headband) and pinned at the throat, was used.<p>Two types of cloak were in use by Anglo-Saxon women in the tenth and eleventh centuries: the first, which was in use from the seventh century onwards being a tailored cloak covering the shoulders, hanging to the wrists, with an integral hood and often fastened by a brooch at the centre of the breast; the second was a new style in the tenth century being a circular poncho which would reach above the knees at the front and below the knees at the back. The wimple would be worn over this cloak.<p>Boots higher than the ankle were very uncommon in the Early Medi&aelig;val period. Most evidence for footwear suggests either low shoes or ankle-boots. All shoes were made by the "turn-shoe" technique, whereby the shoe is stitched inside-out and then turned the right way out. Ankle-boots would be fastened by a thong threaded around the ankle, or a flap and toggle.
+				</div> <!-- end .content-in -->
+
+			</div> <!-- end .content -->
+
+		</div> <!-- end #content-wrap -->
+
+		<div class="clear"></div>
+
+		<div id="footer">
+
+			<div id="footer-in">
+			</div> <!-- end #footer-in -->
+
+		</div> <!-- end #footer -->
+
+	</div> <!-- end div#container -->
+
+
+</body>
+</html>
