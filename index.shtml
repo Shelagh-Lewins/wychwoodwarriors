@@ -79,8 +79,6 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 <p>Well, not quite... Deep in the Forest of Wychwood, there remains one small band of warriors, forgotten by time, who still defend their hidden lair against the invaders.  Officially known as the Oxford University Historical Re-enactment Society, the Wychwood Warriors are dedicated to recreating aspects of Anglo-Saxon and Viking life in early medi&aelig;val England.</p>
 
-<p>For the academic year 2021 - 2022, we plan to run in-person events but we'll continue with Zoom events on even-numbered Thursday evenings in termtime, which enables us to present external speakers, workshops, our historical roleplaying game and other fun stuff in a safe and convenient way.</p>
-
 <p>Our in-person events will include</p>
 
 <ul>
