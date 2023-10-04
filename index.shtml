@@ -72,60 +72,55 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 				<div class="content-in">
 
-<p><a href="https://www.facebook.com/wychwoodwarriors/" target="_blank" rel="noreferrer"><img alt="Wychwood Warriors Facebook Page" src="images/facebook.svg" width="28" height="28">&nbsp;Find us on Facebook</a>&nbsp;<a href="https://www.instagram.com/wychwoodwarriors/" target="_blank" rel="noreferrer"><img alt="Wychwood Warriors Instagram" src="images/instagram.jpg" width="28" height="28">&nbsp;Follow us on Instagram</a></p>
-
 <h3>Wassail!</h3>
 <a href="images/wychwoodwarriors.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - battle practice', '505', '400', 'no');return false;"><img src="images/wychwoodwarriors.jpg" border="0" width="300" align="right" alt="Warriors posing"></a><p>Did you think the Dark Ages were over?
 
 <p>Well, not quite... Deep in the Forest of Wychwood, there remains one small band of warriors, forgotten by time, who still defend their hidden lair against the invaders.  Officially known as the Oxford University Historical Re-enactment Society, the Wychwood Warriors are dedicated to recreating aspects of Anglo-Saxon and Viking life in early medi&aelig;val England.</p>
 
-<p>For the academic year 2021 - 2022, we plan to run in-person events but we'll continue with Zoom events on even-numbered Thursday evenings in termtime, which enables us to present external speakers, workshops, our historical roleplaying game and other fun stuff in a safe and convenient way.</p>
+<h3>What we do</h3>
 
-<p>Our in-person events will include</p>
+<p>With Wychwood you can...</p>
+
+<ul><li>Learn how to <a href="fighting.shtml">fight</a> with replica Dark Age weapons</li>
+  <li>Make your own <a href="costume.shtml">costume</a> and kit using simple techniques based on up-to-date historical evidence</li>
+  <li>Indulge in our termly eight course <a href="firesfeasts.shtml">feasts</a> featuring ancient cookery and revelries... washed down with copious amounts of ale and mead</li>
+  <li>Join us for a range of social events, including...pub invasions, film nights, <a href="trips.shtml">trips</a> to historic sites, markets and learning more about the Early Medieval World</li>
+  <li>Crafts and cookouts at <a href="https://www.rumwoldstow.org" target="_blank" rel="noreferrer">Rumwoldstow Anglo-Saxon Monastery</a></li>
+  <li>Take part in <a href="shows.shtml">shows</a> involving thousands of reenactors - with living history displays, showfights and teaching the public about Dark Age life and warfare. These include our recent trips to Murton Park near York and our attendance at Vikefest last June</li></ul>
+
+
+<h3>Interested?</h3>
+
+
+<p>For Michaelmas term 2023 we'll be having a whole range of events for incoming freshers and anyone else interested! You do not need any experience or historical knowledge: we welcome complete beginners, as well as seasoned re-enactors, and everyone in between. Most members are not historians, so you don’t need any expertise - just interest in what we do!</p>
+
+<p>Our upcoming activities include...</p>
 
 <ul>
-	<li>kitmaking sessions where you can make your own Anglo-Saxon or Viking clothing, and learn crafts such as chain-mail and tablet weaving</li>
-	<li>sword and shield training</li>
-	<li>bonfire with pizza and songs</li>
-	<li>Dark Age feast</li>
-	<li>day trips to re-enactors markets and local historic sites</li>
-	<li>crafts and cookouts at <a href="https://www.rumwoldstow.org" target="_blank" rel="noreferrer">Rumwoldstow Anglo-Saxon Monastery</a></li>
-	<li>public displays like our June 2021 display at Reading Abbey</li>
-	<li>our big event: a (7th - 12th April 2022) living in costume at the Danelaw village, Yorkshire Museum of Farming, on display to the public during the day and gathering round a fire in the longhall at night.</li>
+	<li>Kitmaking sessions every Thursday where you can make your own Anglo-Saxon or Viking clothing and learn crafts such as tablet weaving, chain-mail making and leather working</li>
+	<li>Battle Practice every Sunday, where you can learn how to fight with swords, spears and plenty more!</li>
+	<li>A Samhain bonfire in third week, with pizza and songs</li>
+	<li>A trip to re-enactors markets in sixth week alongisde to some local historic sites</li>
+	<li>A Dark Age feast in seventh week</li>
 </ul>
 
-<h3>How to find out about events</h3>
-<p>Check our <a href="http://wychwood.wikidot.com/termcard" target="_blank" rel="noreferrer">Termcard</a></p>
+<p>Be sure to check our <a href="http://wychwood.wikidot.com/termcard" target="_blank" rel="noreferrer">Termcard</a> for the most up to date info on our events. If you would like to find out more about our activities or have any questions, please <a href="contact.shtml">contact us</a> or just come along to a <a href="fighting.shtml"> battle practice!</a></p>
 
-<p>Talk to us on <a href="https://www.facebook.com/wychwoodwarriors/" target="_blank" rel="noreferrer">Facebook</a>
-
-<p>You do not need any experience or historical knowledge: we welcome complete beginners, as well as seasoned re-enactors, and everyone in between. Most members are not historians, so you don’t need any expertise - just interest!</p>
-
-
-
+<p>Your first two weeks of events with us, be they doing kitmaking, battle practice or both are free, with no obligation to join. Thereafter, membership costs £10 for a term or £20 for the year</p>
 
 <!--<h3>Printable poster</h3>
 
-<p>If you can share <a href="images/wychwood-warriors-poster-2020.pdf">our poster</a> anywhere, for example by printing it and putting it on a noticeboard, that would be amazing - one of our biggest challenges this year is just to let people know we exist!</p>-->
+<p>If you can share <a href="images/wychwood-warriors-poster-2020.pdf">our poster</a> anywhere, for example by printing it and putting it on a noticeboard, that would be amazing - one of our biggest challenges this year is just to let people know we exist!</p>-->    
 
-<h3>More about Wychwood Warriors</h3>
+<h3>Equality and Diversity</h3>
 
-<p>With Wychwood you can...</p>
-    
-<ul>
-	<li>Learn how to <a href="fighting.shtml">fight</a> with replica Dark Age weapons</li>
-  <li>Make your own <a href="costume.shtml">costume</a> and kit using simple techniques based on up-to-date historical evidence</li>
-  <li>Indulge in eight course <a href="firesfeasts.shtml">feasts</a> featuring ancient cookery and revelries... washed down with copious amounts of ale and mead</li>
-  <li>Take part in <a href="shows.shtml">shows</a> of up to 2000 people - or be <a href="hire.shtml">hired</a> to star on the silver screen as a film extra, or to pose for photographs destined for high-profile history books</li>
-  <li>Visit <a href="hire.shtml">schools and museums</a> to teach the public about Dark Age life and warfare<</li>
-  <li>Take part in a range of social events, including... pub invasions, video evenings, <a href="trips.shtml">trips</a> to historic sites and celebrations of the Celtic festivals with <a href="firesfeasts.shtml">fire</a> and song</li>
-</ul>
-    
-<p>Interested? Have a look around our site to find out more about what we do. More detailed information about the period we reenact and our activities can be found on our <a href="http://wychwood.wikidot.com" target="new">wiki</a>, which acts as our shared knowledge base for anything and everything Dark Age or reenactment related.  It is also home to our <a href="http://wychwood.wikidot.com/termcard">termcard</a>.  If you would like to find out more about our activities, or enquire about hiring us, please <a href="contact.shtml">contact us</a> or come along to a <a href="fighting.shtml"> battle practice</a>.  Your first practice is free, with no obligation to join.  Thereafter, membership costs £10 for a term or £20 for the year.</p>
-
-<h3>Equality and diversity</h3>
 <p>Q) Who can join, and are there any restrictions on who can do what?</p>
-<p>A) Anybody can join who is either over 18 or else a matriculated member of Oxford University, and who has an interest in recreating life in early mediaeval Britain. We welcome members of any gender, background or faith. We are opposed to all forms of discrimination; everything is for everybody. Disability may limit the activities that are safe and enjoyable, but we will work with any member to try to maximise their involvement.</p>
+
+<p>A) Anybody can join who is either over 18 or else a matriculated member of Oxford University, and who has an interest in recreating life in early mediaeval Britain. We welcome members of any background and are opposed to all forms of discrimination; everything is for everybody. Disability may limit the activities that are safe and enjoyable, but we will work with any member to try to maximise their involvement.</p>
+
+<br>
+
+<p><a href="https://www.facebook.com/wychwoodwarriors/" target="_blank" rel="noreferrer"><img alt="Wychwood Warriors Facebook Page" src="images/facebook.svg" width="28" height="28">&nbsp;Find us on Facebook</a>&nbsp;<a href="https://www.instagram.com/wychwoodwarriors/" target="_blank" rel="noreferrer"><img alt="Wychwood Warriors Instagram" src="images/instagram.jpg" width="28" height="28">&nbsp;Follow us on Instagram</a></p>
 
 				</div> <!-- end .content-in -->
 

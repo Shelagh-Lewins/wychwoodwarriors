@@ -74,9 +74,11 @@ if (parseInt(navigator.appVersion) >= 4) { win.window.focus(); }
 
 <a href="images/poster.jpg" onclick="NewWindow(this.href,'Wychwood Warriors - battle practice', '440', '615', 'no');return false;"><img src="images/poster.jpg" border=0 width=300 align=right alt="Chaaaaarrrrge!!!"></a><p>If you would like to join the Wychwood Warriors, if you would like to <a href=hire.shtml>hire us</a>, if you are looking for where you can find us doing <a href=fighting.shtml>battle practices</a>, if you require any more information, or if you simply want to say hello, please do not hesitate to contact us.</p>
 
-<p><b>Please contact us by email to wychwood.societyATstudentclubs.ox.ac.uk with any enquiries: </b><br>wychwood.society@studentclubs.ox.ac.uk</p>
+<p>Please contact us by email to <b>wychwood.society@studentclubs.ox.ac.uk</b> with any enquiries</p>
 
-<p>You can also <a href="https://www.facebook.com/wychwoodwarriors/" target="_blank"><img alt="Wychwood Warriors Facebook Page" src="images/facebook.svg" width="28" height="28"> find us on Facebook</a></p>
+<p>If you would like to join the mailing list for event updates and information, please email <b>wychwood-warriors-subscribe at maillist.ox.ac.uk</b></p>
+
+<p><a href="https://www.facebook.com/wychwoodwarriors/" target="_blank" rel="noreferrer"><img alt="Wychwood Warriors Facebook Page" src="images/facebook.svg" width="28" height="28">&nbsp;Find us on Facebook</a>&nbsp;<a href="https://www.instagram.com/wychwoodwarriors/" target="_blank" rel="noreferrer"><img alt="Wychwood Warriors Instagram" src="images/instagram.jpg" width="28" height="28">&nbsp;Follow us on Instagram</a></p>
 
 
 
