@@ -1,1 +1,1 @@
-ErrorDocument 404 /~wychwood/error/error404.shtml
+Redirect 301 / http://wychwood.wikidot.com/start/
